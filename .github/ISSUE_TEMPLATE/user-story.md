@@ -1,7 +1,6 @@
 ---
 name: User Story
-about: Ma première création d'une histoire utilisateurs - certificat de cours "Introduction
-  au développement agile et Scrum" IBM
+about: User Story Model
 title: ''
 labels: ''
 assignees: ''
